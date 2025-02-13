@@ -1,5 +1,7 @@
 # REQRES API Automation Project
 
+https://reqres.in/
+
 This project automates API tests for the REQRES API using the following technologies:
 
 * **Rest Assured:** For making HTTP requests and validating responses.
